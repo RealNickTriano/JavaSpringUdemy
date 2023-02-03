@@ -5,5 +5,5 @@
 // Generated on: 2023.01.19 at 01:28:20 PM EST 
 //
 
-@javax.xml.bind.annotation.XmlSchema(namespace = "http://in28minutes.com/courses", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
+@jakarta.xml.bind.annotation.XmlSchema(namespace = "http://in28minutes.com/courses", elementFormDefault = jakarta.xml.bind.annotation.XmlNsForm.QUALIFIED)
 package com.in28minutes.courses;
